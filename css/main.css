@@ -264,10 +264,14 @@ form#form {
 
     #send {
         width: 40%;
+        padding: 0.35em;
+        font-size: 0.65em;
     }
 
     #emailInput {
         width: 60%;
+        padding: 0.35em;
+        font-size: 0.65em;
     }
 }
 
