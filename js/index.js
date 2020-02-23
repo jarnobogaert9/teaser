@@ -14,6 +14,6 @@ $(function () {
             console.log(er1.responseText);
         });
 
-        $('#email').val("");
+        $('#emailInput').val("");
     });
 });
