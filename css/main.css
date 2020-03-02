@@ -110,6 +110,7 @@ form#form {
     width: 30%;
     float: left;
     box-sizing: border-box;
+    border-bottom: none;
 }
 
 #submit {
