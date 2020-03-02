@@ -83,17 +83,6 @@ form#form {
     width: 25%;
 }
 
-/* #email {
-    padding: 0.65em;
-    font-size: 0.85em;
-    border: none;
-    border-radius: 4px 0 0 4px;
-    float: left;
-    width: 75%;
-    background: white;
-    font-family: Quicksand, serif;
-} */
-
 #emailInput {
     padding: 0.65em;
     font-size: 0.85em;
@@ -266,6 +255,7 @@ form#form {
         width: 40%;
         padding: 0.35em;
         font-size: 0.65em;
+        border-bottom: none;
     }
 
     #emailInput {
@@ -299,6 +289,7 @@ form#form {
 
     #send {
         width: 45%;
+        border-bottom: none;
     }
 
     #emailInput {
@@ -326,5 +317,9 @@ form#form {
 
     form#form {
         width: 65%;
+    }
+
+    #send {
+        border-bottom: none;
     }
 }
